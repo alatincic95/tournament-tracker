@@ -1,0 +1,19 @@
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.exe.config
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.exe
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.exe
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb

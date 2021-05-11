@@ -1,0 +1,94 @@
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\simsala_grim\Desktop\tutorial\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.exe
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.exe.config
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\Dapper.dll
+C:\Users\pere\Desktop\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\Dapper.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\Dapper.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\bin\Debug\Dapper.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\Dapper.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\Dapper.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\Dapper.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll.config
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\bin\Debug\Dapper.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb

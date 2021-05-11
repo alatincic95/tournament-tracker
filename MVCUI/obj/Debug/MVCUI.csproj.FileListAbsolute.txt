@@ -1,0 +1,260 @@
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\MVCUI.dll.config
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\MVCUI.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\MVCUI.pdb
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csc.exe
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csc.exe.config
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csc.rsp
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csi.exe
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csi.exe.config
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csi.rsp
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Buffers.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Collections.Immutable.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Memory.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Numerics.Vectors.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\vbc.exe
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\vbc.exe.config
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\vbc.rsp
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\VBCSCompiler.exe
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\VBCSCompiler.exe.config
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Antlr3.Runtime.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Microsoft.Web.Infrastructure.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Newtonsoft.Json.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Helpers.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Mvc.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Optimization.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Razor.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Deployment.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Razor.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\WebGrease.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Newtonsoft.Json.xml
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Helpers.xml
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Mvc.xml
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Optimization.xml
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Razor.xml
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.xml
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Deployment.xml
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Razor.xml
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Antlr3.Runtime.pdb
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csprojAssemblyReference.cache
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csproj.CoreCompileInputs.cache
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csproj.CopyComplete
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.pdb
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\TrackerLibrary.exe
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Dapper.dll
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\TrackerLibrary.pdb
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\TrackerLibrary.exe.config
+E:\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Dapper.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\MVCUI.dll.config
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\MVCUI.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\MVCUI.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csc.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csc.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csc.rsp
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csi.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csi.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\csi.rsp
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Buffers.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Memory.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\vbc.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\vbc.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\vbc.rsp
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Antlr3.Runtime.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Dapper.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Newtonsoft.Json.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Helpers.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Mvc.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Optimization.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Razor.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\TrackerLibrary.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\WebGrease.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\TrackerLibrary.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\TrackerLibrary.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Dapper.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Newtonsoft.Json.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Helpers.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Mvc.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Optimization.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.Razor.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\bin\Antlr3.Runtime.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csprojAssemblyReference.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csproj.CoreCompileInputs.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csproj.CopyComplete
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\MVCUI.dll.config
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\MVCUI.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\MVCUI.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csc.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csc.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csc.rsp
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csi.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csi.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csi.rsp
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Buffers.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Memory.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\vbc.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\vbc.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\vbc.rsp
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\Antlr3.Runtime.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\Dapper.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\Newtonsoft.Json.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Helpers.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Mvc.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Optimization.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Razor.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\TrackerLibrary.exe
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\WebGrease.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\TrackerLibrary.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\TrackerLibrary.exe.config
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\Dapper.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\Newtonsoft.Json.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Helpers.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Mvc.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Optimization.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Razor.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\bin\Antlr3.Runtime.pdb
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csprojAssemblyReference.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csproj.CoreCompileInputs.cache
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csproj.CopyComplete
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.dll
+C:\Users\anter\Desktop\ante\net i html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.pdb
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\MVCUI.dll.config
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\MVCUI.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\MVCUI.pdb
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csc.exe
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csc.exe.config
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csc.rsp
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csi.exe
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csi.exe.config
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\csi.rsp
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Buffers.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Memory.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\vbc.exe
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\vbc.exe.config
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\vbc.rsp
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\Antlr3.Runtime.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\Dapper.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\Newtonsoft.Json.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Helpers.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Mvc.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Optimization.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Razor.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\TrackerLibrary.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\WebGrease.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\TrackerLibrary.pdb
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\TrackerLibrary.dll.config
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\Dapper.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\Newtonsoft.Json.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Helpers.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Mvc.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Optimization.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.Razor.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\bin\Antlr3.Runtime.pdb
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csprojAssemblyReference.cache
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csproj.CoreCompileInputs.cache
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.csproj.CopyComplete
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.dll
+C:\Users\anter\Desktop\ante\net_i_html\tutorial_ante\TournamentTracker\MVCUI\obj\Debug\MVCUI.pdb
